@@ -1,0 +1,25 @@
+{
+  "name": "skill99",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masun11/myskill99.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masun11/myskill99/issues"
+  },
+  "homepage": "https://github.com/masun11/myskill99#readme",
+  "description": "",
+  "dependencies": {
+    "finalhandler": "^2.1.0",
+    "serve-static": "^2.2.0"
+  }
+}
